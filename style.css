@@ -1,0 +1,12 @@
+img{
+    width: 375px;
+    height: 175px;
+    align-self: center;
+    margin-left: 390px;
+}
+.container{
+    text-align: center;
+}
+#MyCarousel{
+    text-align: center;
+}
